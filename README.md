@@ -12,3 +12,9 @@ Velcity[m/s] -> Pulse per HZ
 
     목표 속도 v[m/s], 바퀴반지름 r[m], 축 한바퀴당 펄스 수 ppr, 체배 x, 제어주기 f
     PulsePerHZ(r, x, v, ppr, f)
+
+# 도움이 되는 상수
+
+- rad2deg : 57.29578049
+
+- deg2rad : 0.01745329222 
